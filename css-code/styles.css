@@ -6,6 +6,7 @@
 .dog{
   padding-top: 20px;
   padding-right: 50px;
+  padding-left:10px;
   width:380px;
   height: 280px;
  margin-left: 22px;
@@ -13,6 +14,7 @@
 .cat{
   padding-top: 20px;
   padding-right: 50px;
+  padding-left:10px;
   width:380px;
   height: 280px;
  margin-left: 22px;
