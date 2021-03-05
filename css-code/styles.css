@@ -4,15 +4,17 @@
 }
 .dog{
   padding-top: 20px;
-  padding-left: 40px;
-  width:364px;
-  height: 230px;
+  padding-right: 0px;
+  width:400px;
+  height: 280px;
+ margin-left: 22px;
 }
 .cat{
   padding-top: 20px;
-  padding-left: 40px;
-  width:365px;
-  height: 230px;
+  padding-right: 0px;
+  width:400px;
+  height: 280px;
+ margin-left: 22px;
 }
 h1{
   font-family:"Montserrat-Black";
