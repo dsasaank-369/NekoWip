@@ -1,23 +1,22 @@
 #first{
   background-color: #f5d782;
   color:black;
-  padding:5px;
+  padding-right: 100px;
 }
 .dog{
   padding-top: 20px;
-  padding-right: 50px;
-  padding-left:5px;
-  width:380px;
+  padding-right: 60px;
+  width:400px;
   height: 280px;
- margin-left: 22px;
+ margin-left: 13px;
 }
 .cat{
   padding-top: 20px;
-  padding-right: 50px;
-  padding-left:5px;
-  width:380px;
+  padding-right: 60px;
+  padding-bottom: 2px;
+  width:400px;
   height: 280px;
- margin-left: 22px;
+ margin-left: 13px;
 }
 h1{
   font-family:"Montserrat-Black";
@@ -114,11 +113,11 @@ h1{
 }
 #sixth{
   text-align:center;
-  margin:10% 3% 10% 0%;
+  margin:5% 4% 5% 5%;
   font-family: 'Dancing Script', cursive;
 }
 #seven{
-  padding: 3%;
+  padding: 4%;
   text-align:center;
   background-color: #b8b5ff
 }
@@ -136,7 +135,4 @@ h1{
 .conbut{
     margin-top: 2%;
     margin-bottom: 4%;
-}
-.navbar-dark{
-color:black;
 }
